@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "testleaf-da-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": 1743834386.299,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LSKey-c$CookieConsentPolicy",
+      "value": "0:1",
+      "domain": "testleaf-da-dev-ed.develop.my.salesforce.com",
+      "path": "/",
+      "expires": 1743834386.3,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BrowserId",
+      "value": "bWT2t_MVEe6Zl6FYHNVXLw",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1743834386.3,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
